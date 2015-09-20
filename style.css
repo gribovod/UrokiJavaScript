@@ -1,0 +1,27 @@
+*, html, body {
+    margin:0; padding:0
+}
+body {
+    font-family: Verdana, sans-serif;
+    background-color: palegreen;
+}
+
+.container {
+    height: 1000px;
+    width: 800px;
+    background-color: bisque;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid rgb(156,115,93);
+    -webkit-box-shadow: 0 0 20px 10px rgba(0,0,0,.35);
+    box-shadow: 0 0 20px 10px rgba(0,0,0,.35);
+}
+.content{
+    margin: 10px;
+    background-color: aliceblue;
+    border: 1px solid rgb(156,115,93);
+    -webkit-box-shadow: 0 0 20px 10px rgba(0,0,0,.35);
+    box-shadow: 0 0 20px 10px rgba(0,0,0,.35);
+    padding: 10px;
+}
